@@ -1,0 +1,21 @@
+Professor,Section,Course,Time Slot,Batch,Room,Days
+Prof1,A,Cor3,Slot1,Batch1,Room1,Day1
+Prof2,B,Cor1,Slot2,Batch2,Room2,Day2
+Prof3,C,Cor5,Slot3,Batch3,Room3,Day3
+Prof4,D,Cor2,Slot4,Batch4,Room4,Day4
+Prof5,E,Cor4,Slot5,,Room5,Day5
+Prof6,,,Slot6,,Room6,
+Prof7,,,,,Room7,
+Prof8,,,,,Room8,
+Prof9,,,,,Room9,
+Prof10,,,,,Room10,
+Prof11,,,,,Room11,
+Prof12,,,,,Room12,
+Prof13,,,,,Room13,
+Prof14,,,,,Room14,
+Prof15,,,,,Room15,
+Prof16,,,,,Room16,
+Prof17,,,,,Room17,
+Prof18,,,,,Room18,
+Prof19,,,,,Room19,
+Prof20,,,,,Room20,
